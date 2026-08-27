@@ -31,12 +31,12 @@ COPY --from=builder /app/dist /srv
 # Copy Caddyfile for configuration
 COPY Caddyfile /etc/caddy/Caddyfile
 
-# Expose port 3000 (as configured in Caddyfile)
-EXPOSE 3000
+# Expose the PORT environment variable (Railway assigns this dynamically)
+EXPOSE $PORT
 
-# Health check
+# Health check using the dynamic port
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD wget --no-verbose --tries=1 --spider http://localhost:3000/health || exit 1
+  CMD wget --no-verbose --tries=1 --spider http://localhost:${PORT:-3000}/health || exit 1
 
 # Caddy will automatically use the Caddyfile
 CMD ["caddy", "run", "--config", "/etc/caddy/Caddyfile"]
