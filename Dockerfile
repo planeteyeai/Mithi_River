@@ -8,7 +8,10 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install all dependencies (including dev dependencies needed for build)
-RUN npm ci --silent
+RUN npm install --silent
+
+# Verify vite is available
+RUN npx vite --version || echo "Vite not found, checking node_modules..." && ls -la node_modules/.bin/ | grep vite
 
 # Copy source code
 COPY . .
