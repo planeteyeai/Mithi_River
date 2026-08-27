@@ -7,8 +7,8 @@ WORKDIR /app
 # Copy package files
 COPY package*.json ./
 
-# Install dependencies
-RUN npm ci --only=production --silent
+# Install all dependencies (including dev dependencies needed for build)
+RUN npm ci --silent
 
 # Copy source code
 COPY . .
@@ -18,6 +18,9 @@ RUN npm run build
 
 # Production stage with Caddy web server
 FROM caddy:2.7-alpine
+
+# Install wget for health checks
+RUN apk add --no-cache wget
 
 # Copy built assets from builder stage
 COPY --from=builder /app/dist /srv
