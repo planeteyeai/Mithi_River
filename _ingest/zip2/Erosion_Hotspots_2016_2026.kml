@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Bank Erosion Hotspot - Mithi River (2016-2026)</name>
+  <description>Bank erosion hotspot classification: number of year-to-year periods with erosion. Colors: White=No/Very Low Erosion (within river extent), Yellow=Low, Orange=Moderate, Red=High, Maroon=Very High. Areas outside the river are left transparent.</description>
+
+  <GroundOverlay>
+    <name>Bank Erosion Hotspot (2016-2026)</name>
+    <description>Erosion hotspot raster, 2016-2026</description>
+    <Icon>
+      <href>Erosion_Hotspots_2016_2026_overlay.png</href>
+    </Icon>
+    <LatLonBox>
+      <north>19.08803197767048</north>
+      <south>19.04491284403274</south>
+      <east>72.87942068533268</east>
+      <west>72.83441508959828</west>
+      <rotation>0</rotation>
+    </LatLonBox>
+  </GroundOverlay>
+
+  <ScreenOverlay>
+    <name>Legend</name>
+    <Icon>
+      <href>legend.png</href>
+    </Icon>
+    <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+    <screenXY x="0.01" y="0.01" xunits="fraction" yunits="fraction"/>
+    <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+    <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+  </ScreenOverlay>
+
+</Document>
+</kml>

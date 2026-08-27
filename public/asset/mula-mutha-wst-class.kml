@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>WST - Water Surface Temperature</name>
+    <description><![CDATA[Class 1 - Very Low (<27C): #1565C0<br/>Class 2 - Low (27-<30C): #64B5F6<br/>Class 3 - Moderate (30-<33C): #FFD54F<br/>Class 4 - High (33-<36C): #E53935<br/>Class 5 - Very High (>=36C): #8E0000]]></description>
+    <GroundOverlay>
+      <name>WST - Water Surface Temperature</name>
+      <color>ffffffff</color>
+      <Icon>
+        <href>MulaMutha_WST_Temperature.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>18.56170905270485</north>
+        <south>18.509966092339564</south>
+        <east>73.99620624655005</east>
+        <west>73.85014018135222</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Document>
+</kml>

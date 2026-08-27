@@ -1,0 +1,581 @@
+{
+  "name": "Mithi River silt classification",
+  "source_folder": "Mithi silt Jan\u2013Jul 2026",
+  "source_id": "f2b2e1eb0ab84942adbede8b8d8f9488.zip",
+  "captured": "2026-01 to 2026-07",
+  "kind": "Estimated",
+  "sensor": "Raster silt classification (monthly GroundOverlays)",
+  "note": "Discrete silt classes Low\u2013Very High. No volume surface supplied for Mithi.",
+  "default_period": 5,
+  "classes": [
+    {
+      "class": 1,
+      "label": "Low",
+      "color": "#00ff00"
+    },
+    {
+      "class": 2,
+      "label": "Moderate",
+      "color": "#ffff00"
+    },
+    {
+      "class": 3,
+      "label": "High",
+      "color": "#ffa500"
+    },
+    {
+      "class": 4,
+      "label": "Very High",
+      "color": "#ff0000"
+    }
+  ],
+  "csv": null,
+  "periods": [
+    {
+      "id": 0,
+      "month": "2026-01",
+      "label": "Jan 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-01.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 49212,
+          "share_pct": 25.5,
+          "area_ha": 51.7
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 47592,
+          "share_pct": 24.7,
+          "area_ha": 50.0
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 34416,
+          "share_pct": 17.8,
+          "area_ha": 36.1
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 61596,
+          "share_pct": 31.9,
+          "area_ha": 64.7
+        }
+      ],
+      "total_pixels": 192816,
+      "classified_area_ha": 202.5,
+      "water_mask_pixels": 1958184
+    },
+    {
+      "id": 1,
+      "month": "2026-02",
+      "label": "Feb 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-02.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 38304,
+          "share_pct": 19.4,
+          "area_ha": 40.2
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 38088,
+          "share_pct": 19.3,
+          "area_ha": 40.0
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 43128,
+          "share_pct": 21.9,
+          "area_ha": 45.3
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 77616,
+          "share_pct": 39.4,
+          "area_ha": 81.5
+        }
+      ],
+      "total_pixels": 197136,
+      "classified_area_ha": 207.0,
+      "water_mask_pixels": 1953864
+    },
+    {
+      "id": 2,
+      "month": "2026-03",
+      "label": "Mar 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-03.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 42588,
+          "share_pct": 23.3,
+          "area_ha": 44.7
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 38196,
+          "share_pct": 20.9,
+          "area_ha": 40.1
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 40500,
+          "share_pct": 22.2,
+          "area_ha": 42.5
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 61164,
+          "share_pct": 33.5,
+          "area_ha": 64.2
+        }
+      ],
+      "total_pixels": 182448,
+      "classified_area_ha": 191.5,
+      "water_mask_pixels": 1968552
+    },
+    {
+      "id": 3,
+      "month": "2026-04",
+      "label": "Apr 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-04.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 41688,
+          "share_pct": 25.1,
+          "area_ha": 43.8
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 43596,
+          "share_pct": 26.3,
+          "area_ha": 45.8
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 31896,
+          "share_pct": 19.2,
+          "area_ha": 33.5
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 48852,
+          "share_pct": 29.4,
+          "area_ha": 51.3
+        }
+      ],
+      "total_pixels": 166032,
+      "classified_area_ha": 174.4,
+      "water_mask_pixels": 1984968
+    },
+    {
+      "id": 4,
+      "month": "2026-05",
+      "label": "May 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-05.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 28764,
+          "share_pct": 17.1,
+          "area_ha": 30.2
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 39312,
+          "share_pct": 23.3,
+          "area_ha": 41.3
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 42696,
+          "share_pct": 25.3,
+          "area_ha": 44.8
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 57744,
+          "share_pct": 34.3,
+          "area_ha": 60.6
+        }
+      ],
+      "total_pixels": 168516,
+      "classified_area_ha": 176.9,
+      "water_mask_pixels": 1982484
+    },
+    {
+      "id": 5,
+      "month": "2026-06",
+      "label": "Jun 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-06.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 23940,
+          "share_pct": 17.5,
+          "area_ha": 25.1
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 41148,
+          "share_pct": 30.0,
+          "area_ha": 43.2
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 35064,
+          "share_pct": 25.6,
+          "area_ha": 36.8
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 36792,
+          "share_pct": 26.9,
+          "area_ha": 38.6
+        }
+      ],
+      "total_pixels": 136944,
+      "classified_area_ha": 143.7,
+      "water_mask_pixels": 2014056
+    },
+    {
+      "id": 6,
+      "month": "2026-07",
+      "label": "Jul 2026",
+      "bounds": {
+        "north": 19.087942146142066,
+        "south": 19.045002675561154,
+        "east": 72.87942068533266,
+        "west": 72.83450492112668
+      },
+      "imageCoordinates": [
+        [
+          72.83450492112668,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.087942146142066
+        ],
+        [
+          72.87942068533266,
+          19.045002675561154
+        ],
+        [
+          72.83450492112668,
+          19.045002675561154
+        ]
+      ],
+      "classification": {
+        "raster": "/asset/mula-mutha-silt-class-2026-07.png"
+      },
+      "volume": null,
+      "classes": [
+        {
+          "id": 1,
+          "key": "00FF00",
+          "label": "Low",
+          "color": "#00ff00",
+          "class": 1,
+          "pixels": 4212,
+          "share_pct": 28.8,
+          "area_ha": 4.4
+        },
+        {
+          "id": 2,
+          "key": "FFFF00",
+          "label": "Moderate",
+          "color": "#ffff00",
+          "class": 2,
+          "pixels": 2268,
+          "share_pct": 15.5,
+          "area_ha": 2.4
+        },
+        {
+          "id": 3,
+          "key": "FFA500",
+          "label": "High",
+          "color": "#ffa500",
+          "class": 3,
+          "pixels": 1908,
+          "share_pct": 13.1,
+          "area_ha": 2.0
+        },
+        {
+          "id": 4,
+          "key": "FF0000",
+          "label": "Very High",
+          "color": "#ff0000",
+          "class": 4,
+          "pixels": 6228,
+          "share_pct": 42.6,
+          "area_ha": 6.5
+        }
+      ],
+      "total_pixels": 14616,
+      "classified_area_ha": 15.3,
+      "water_mask_pixels": 2136384
+    }
+  ]
+}

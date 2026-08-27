@@ -1,0 +1,97 @@
+{
+  "name": "Mithi flood water timeseries",
+  "source_file": "611be66f88f4459da17e5e15ba498154.xlsx",
+  "source_id": "611be66f88f4459da17e5e15ba498154.xlsx",
+  "captured": "2026-05-26 to 2026-08-13",
+  "kind": "Estimated",
+  "note": "Classed water and flood sample points for pre/post image pairs along the Mithi. Heatmap is point density, not a surveyed flood outline.",
+  "bounds": {
+    "west": 72.835089,
+    "south": 19.047114,
+    "east": 72.879106,
+    "north": 19.087538
+  },
+  "default_period": 3,
+  "classes": {
+    "water": {
+      "label": "Surface water",
+      "color": "#2f9bd6"
+    },
+    "flood": {
+      "label": "Flood water",
+      "color": "#c2372a"
+    }
+  },
+  "periods": [
+    {
+      "id": 0,
+      "pre_date": "2026-05-26",
+      "post_date": "2026-06-07",
+      "water_area_ha": 37.44,
+      "flood_area_ha": 10.62,
+      "n_flood": 1230,
+      "n_water": 4021,
+      "points": "/asset/mula-mutha-flood-water-0.json"
+    },
+    {
+      "id": 1,
+      "pre_date": "2026-06-07",
+      "post_date": "2026-06-19",
+      "water_area_ha": 36.81,
+      "flood_area_ha": 14.47,
+      "n_flood": 1583,
+      "n_water": 3970,
+      "points": "/asset/mula-mutha-flood-water-1.json"
+    },
+    {
+      "id": 2,
+      "pre_date": "2026-06-19",
+      "post_date": "2026-06-26",
+      "water_area_ha": 37.88,
+      "flood_area_ha": 13.86,
+      "n_flood": 1481,
+      "n_water": 4106,
+      "points": "/asset/mula-mutha-flood-water-2.json"
+    },
+    {
+      "id": 3,
+      "pre_date": "2026-06-26",
+      "post_date": "2026-07-08",
+      "water_area_ha": 46.89,
+      "flood_area_ha": 15.19,
+      "n_flood": 1665,
+      "n_water": 5069,
+      "points": "/asset/mula-mutha-flood-water-3.json"
+    },
+    {
+      "id": 4,
+      "pre_date": "2026-07-08",
+      "post_date": "2026-07-20",
+      "water_area_ha": 52.97,
+      "flood_area_ha": 6.06,
+      "n_flood": 665,
+      "n_water": 5739,
+      "points": "/asset/mula-mutha-flood-water-4.json"
+    },
+    {
+      "id": 5,
+      "pre_date": "2026-07-20",
+      "post_date": "2026-08-01",
+      "water_area_ha": 52.23,
+      "flood_area_ha": 7.88,
+      "n_flood": 869,
+      "n_water": 5584,
+      "points": "/asset/mula-mutha-flood-water-5.json"
+    },
+    {
+      "id": 6,
+      "pre_date": "2026-08-01",
+      "post_date": "2026-08-13",
+      "water_area_ha": 51.57,
+      "flood_area_ha": 6.53,
+      "n_flood": 758,
+      "n_water": 5515,
+      "points": "/asset/mula-mutha-flood-water-6.json"
+    }
+  ]
+}

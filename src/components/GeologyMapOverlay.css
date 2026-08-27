@@ -1,0 +1,140 @@
+.geo-note,
+.geo-prov {
+  margin: 0;
+  font-size: 11px;
+  line-height: 1.45;
+  color: var(--rv-ink-2);
+}
+
+.geo-bathy-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 8px 0 4px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--rv-line);
+  background: var(--rv-surface);
+  color: var(--rv-blue-dark);
+  font: 650 12px/1.2 var(--rv-font-body);
+  letter-spacing: 0.02em;
+  cursor: pointer;
+}
+
+.geo-bathy-btn:hover {
+  border-color: var(--rv-blue);
+  color: var(--rv-blue);
+}
+
+.geo-prov {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 650;
+}
+
+.geo-series {
+  margin: 0;
+  padding-top: 8px;
+  border-top: 1px solid var(--rv-line);
+}
+
+.geo-series-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.geo-series-head em {
+  font-style: normal;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--rv-ink-2);
+  font-weight: 650;
+}
+
+.geo-stat-chips {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+  margin: 8px 0;
+}
+
+.geo-stat-chips span {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 5px 6px;
+  border-radius: 8px;
+  border: 1px solid var(--rv-line);
+  background: var(--rv-surface-2, #f4f9fc);
+  font-family: var(--rv-font-mono);
+  font-size: 11px;
+  font-weight: 650;
+}
+
+.geo-stat-chips em {
+  font-style: normal;
+  font-family: var(--rv-font-body);
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--rv-muted);
+  font-weight: 650;
+}
+
+.geo-series-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.geo-series-row {
+  display: grid;
+  grid-template-columns: 62px minmax(0, 1fr) 36px;
+  align-items: center;
+  gap: 6px;
+  font-size: 10px;
+}
+
+.geo-series-row strong {
+  font-family: var(--rv-font-mono);
+  font-weight: 650;
+}
+
+.geo-series-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.geo-series-bars i {
+  display: block;
+  height: 4px;
+  border-radius: 99px;
+  min-width: 0;
+}
+
+.geo-series-row em {
+  font-style: normal;
+  font-family: var(--rv-font-mono);
+  font-weight: 650;
+  text-align: right;
+}
+
+.geo-series-row em.is-loss {
+  color: #c2372a;
+}
+
+.geo-series-row em.is-gain {
+  color: #1c8a55;
+}
+
+.geo-series .geo-note {
+  margin-top: 8px;
+}
+

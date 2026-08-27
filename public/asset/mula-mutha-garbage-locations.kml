@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="gerbage_locations" id="gerbage_locations">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>gerbage_locations</name>
+  <Placemark id="gerbage_locations.1">
+	<name>0</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09333635</SimpleData>
+		<SimpleData name="Longitude">72.87861707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.878617068224,19.0933363450354</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.2">
+	<name>1</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09411550</SimpleData>
+		<SimpleData name="Longitude">72.87902026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8790202592375,19.0941154985784</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.3">
+	<name>2</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09287765</SimpleData>
+		<SimpleData name="Longitude">72.87841600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8784159963419,19.0928776498045</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.4">
+	<name>3</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09224825</SimpleData>
+		<SimpleData name="Longitude">72.87855528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8785552805102,19.0922482529237</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.5">
+	<name>4</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09253310</SimpleData>
+		<SimpleData name="Longitude">72.87846417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8784641698137,19.0925331047566</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.6">
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09282529</SimpleData>
+		<SimpleData name="Longitude">72.87869980</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8786998009254,19.0928252873352</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.7">
+	<name>6</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09204299</SimpleData>
+		<SimpleData name="Longitude">72.87867781</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8786778086884,19.0920429920441</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.8">
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09189952</SimpleData>
+		<SimpleData name="Longitude">72.87861497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8786149737252,19.0918995188782</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.9">
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09168064</SimpleData>
+		<SimpleData name="Longitude">72.87873541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8787354074045,19.0916806437566</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.10">
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09147957</SimpleData>
+		<SimpleData name="Longitude">72.87906948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8790694799586,19.0914795718745</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.11">
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.09131411</SimpleData>
+		<SimpleData name="Longitude">72.87907786</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8790778579537,19.0913141064716</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.12">
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08755239</SimpleData>
+		<SimpleData name="Longitude">72.87924751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8792475123541,19.0875523866781</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.13">
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08740577</SimpleData>
+		<SimpleData name="Longitude">72.87863801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8786380132116,19.0874057717641</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.14">
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08719004</SimpleData>
+		<SimpleData name="Longitude">72.87835107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.87835106688,19.0871900383906</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.15">
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08702248</SimpleData>
+		<SimpleData name="Longitude">72.87919306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8791930553861,19.0870224784889</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.16">
+	<name>15</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08678580</SimpleData>
+		<SimpleData name="Longitude">72.87915326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8791532599094,19.0867858001278</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.17">
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08638366</SimpleData>
+		<SimpleData name="Longitude">72.87896685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8789668495188,19.0863836563636</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.18">
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08601293</SimpleData>
+		<SimpleData name="Longitude">72.87897523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8789752275139,19.0860129300811</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.19">
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08570294</SimpleData>
+		<SimpleData name="Longitude">72.87919515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8791951498849,19.0857029442629</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.20">
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08518979</SimpleData>
+		<SimpleData name="Longitude">72.87903806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.879038062477,19.0851897920639</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.21">
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08458029</SimpleData>
+		<SimpleData name="Longitude">72.87839505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8783950513542,19.0845802929214</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.22">
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08466198</SimpleData>
+		<SimpleData name="Longitude">72.87836154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8783615393738,19.0846619783735</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.23">
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08480231</SimpleData>
+		<SimpleData name="Longitude">72.87839715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8783971458529,19.0848023097912</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.24">
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08490075</SimpleData>
+		<SimpleData name="Longitude">72.87853119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8785311937743,19.0849007512335</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.25">
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08502014</SimpleData>
+		<SimpleData name="Longitude">72.87857099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.878570989251,19.0850201376634</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.26">
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08525053</SimpleData>
+		<SimpleData name="Longitude">72.87851653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8785165322829,19.0852505325283</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.27">
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08535526</SimpleData>
+		<SimpleData name="Longitude">72.87857308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8785730837497,19.0853552574669</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.28">
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08407342</SimpleData>
+		<SimpleData name="Longitude">72.87836154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8783615393738,19.0840734242188</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.29">
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08365452</SimpleData>
+		<SimpleData name="Longitude">72.87709018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8770901786196,19.0836545244645</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.30">
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08328589</SimpleData>
+		<SimpleData name="Longitude">72.87702315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8770231546589,19.0832858926807</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.31">
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08279369</SimpleData>
+		<SimpleData name="Longitude">72.87714882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8771488245852,19.0827936854694</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.32">
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08258214</SimpleData>
+		<SimpleData name="Longitude">72.87789028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8778902771503,19.0825821410935</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.33">
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08206271</SimpleData>
+		<SimpleData name="Longitude">72.87811439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8781143885188,19.0820627053982</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.34">
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.08150557</SimpleData>
+		<SimpleData name="Longitude">72.87842019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8784201853394,19.081505568725</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.35">
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07957444</SimpleData>
+		<SimpleData name="Longitude">72.87836573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8783657283714,19.0795744408577</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.36">
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07921209</SimpleData>
+		<SimpleData name="Longitude">72.87814999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.878149994998,19.0792120925703</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.37">
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07827585</SimpleData>
+		<SimpleData name="Longitude">72.87827776</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.878277759423,19.0782758516194</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.38">
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07980693</SimpleData>
+		<SimpleData name="Longitude">72.87926846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8792684573419,19.0798069302213</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.39">
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07840257</SimpleData>
+		<SimpleData name="Longitude">72.87760647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8776064725667,19.0784025687951</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.40">
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07941526</SimpleData>
+		<SimpleData name="Longitude">72.87651105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8765110497093,19.0794152589511</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.41">
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07727259</SimpleData>
+		<SimpleData name="Longitude">72.87535803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8753580281356,19.0772725867079</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.42">
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07727887</SimpleData>
+		<SimpleData name="Longitude">72.87563450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8756345019734,19.0772788702042</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.43">
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07746319</SimpleData>
+		<SimpleData name="Longitude">72.87580835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8758083453715,19.0774631860961</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.44">
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07747785</SimpleData>
+		<SimpleData name="Longitude">72.87466475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8746647490423,19.0774778475875</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.45">
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07726002</SimpleData>
+		<SimpleData name="Longitude">72.87447206</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8744720551553,19.0772600197153</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.46">
+	<name>45</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07712807</SimpleData>
+		<SimpleData name="Longitude">72.87415579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8741557858408,19.0771280662927</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.47">
+	<name>46</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07722651</SimpleData>
+		<SimpleData name="Longitude">72.87387931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.873879312003,19.0772265077349</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.48">
+	<name>47</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07631331</SimpleData>
+		<SimpleData name="Longitude">72.87319441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8731944109047,19.0763133062706</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.49">
+	<name>48</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07643060</SimpleData>
+		<SimpleData name="Longitude">72.87355885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.873558853691,19.0764305982018</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.50">
+	<name>49</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07660654</SimpleData>
+		<SimpleData name="Longitude">72.87389607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8738960679932,19.0766065360986</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.51">
+	<name>50</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07678457</SimpleData>
+		<SimpleData name="Longitude">72.87302057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8730205675067,19.0767845684942</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.52">
+	<name>51</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07588812</SimpleData>
+		<SimpleData name="Longitude">72.87250323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8725032263101,19.07588812302</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.53">
+	<name>52</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07600541</SimpleData>
+		<SimpleData name="Longitude">72.87226445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8722644534502,19.0760054149512</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.54">
+	<name>53</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07617716</SimpleData>
+		<SimpleData name="Longitude">72.87179738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8717973802242,19.0761771638504</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.55">
+	<name>54</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07596143</SimpleData>
+		<SimpleData name="Longitude">72.87144132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.871441315433,19.075961430477</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.56">
+	<name>55</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07529957</SimpleData>
+		<SimpleData name="Longitude">72.87217020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8721702010055,19.0752995688652</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.57">
+	<name>56</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07558023</SimpleData>
+		<SimpleData name="Longitude">72.87210946</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8721094605411,19.0755802317006</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.58">
+	<name>57</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07443454</SimpleData>
+		<SimpleData name="Longitude">72.87158374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8715837413495,19.0744345408726</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.59">
+	<name>58</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07252645</SimpleData>
+		<SimpleData name="Longitude">72.87306246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8730624574821,19.0725264524918</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.60">
+	<name>59</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07267097</SimpleData>
+		<SimpleData name="Longitude">72.87302057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8730205675067,19.0726709729071</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.61">
+	<name>60</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07297049</SimpleData>
+		<SimpleData name="Longitude">72.87282787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8728278736197,19.0729704862314</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.62">
+	<name>61</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07236099</SimpleData>
+		<SimpleData name="Longitude">72.87249904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8724990373126,19.0723609870889</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.63">
+	<name>62</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07252017</SimpleData>
+		<SimpleData name="Longitude">72.87233357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8723335719097,19.0725201689955</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.64">
+	<name>63</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07186250</SimpleData>
+		<SimpleData name="Longitude">72.87224351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8722435084625,19.0718624963813</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.65">
+	<name>64</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07159231</SimpleData>
+		<SimpleData name="Longitude">72.87276713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8727671331554,19.0715923060398</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.66">
+	<name>65</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07125928</SimpleData>
+		<SimpleData name="Longitude">72.87372222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8737222245951,19.0712592807351</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.67">
+	<name>66</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07212221</SimpleData>
+		<SimpleData name="Longitude">72.87336616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.873366159804,19.072122214229</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.68">
+	<name>67</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07071262</SimpleData>
+		<SimpleData name="Longitude">72.87364473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8736447281406,19.0707126165558</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.69">
+	<name>68</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06902655</SimpleData>
+		<SimpleData name="Longitude">72.87285720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8728571966025,19.0690265450448</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.70">
+	<name>69</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06881500</SimpleData>
+		<SimpleData name="Longitude">72.87369290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8736929016123,19.0688150006689</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.71">
+	<name>70</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06591412</SimpleData>
+		<SimpleData name="Longitude">72.87280902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8728090231308,19.0659141198704</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.72">
+	<name>71</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06315776</SimpleData>
+		<SimpleData name="Longitude">72.87117322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8711732195903,19.0631577594872</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.73">
+	<name>72</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06382800</SimpleData>
+		<SimpleData name="Longitude">72.87193981</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8719398061406,19.0638279990941</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.74">
+	<name>73</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06419663</SimpleData>
+		<SimpleData name="Longitude">72.87230425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8723042489269,19.0641966308779</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.75">
+	<name>74</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06276818</SimpleData>
+		<SimpleData name="Longitude">72.87180366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8718036637205,19.0627681827157</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.76">
+	<name>75</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06303837</SimpleData>
+		<SimpleData name="Longitude">72.87192933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8719293336468,19.0630383730573</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.77">
+	<name>76</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06250009</SimpleData>
+		<SimpleData name="Longitude">72.87166962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8716696157991,19.062500086873</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.78">
+	<name>77</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06225713</SimpleData>
+		<SimpleData name="Longitude">72.87155651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8715565128655,19.0622571250155</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.79">
+	<name>78</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06192619</SimpleData>
+		<SimpleData name="Longitude">72.87144760</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8714475989294,19.0619261942096</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.80">
+	<name>79</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06164972</SimpleData>
+		<SimpleData name="Longitude">72.87129680</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8712967950178,19.0616497203718</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.81">
+	<name>80</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06115542</SimpleData>
+		<SimpleData name="Longitude">72.87112086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.871120857121,19.0611554186617</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.82">
+	<name>81</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05851635</SimpleData>
+		<SimpleData name="Longitude">72.87013644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8701364426985,19.0585163502097</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.83">
+	<name>82</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05867134</SimpleData>
+		<SimpleData name="Longitude">72.87022232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8702223171481,19.0586713431188</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.84">
+	<name>83</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05925780</SimpleData>
+		<SimpleData name="Longitude">72.87044643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8704464285166,19.0592578027748</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.85">
+	<name>84</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05974373</SimpleData>
+		<SimpleData name="Longitude">72.87060561</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8706056104232,19.0597437264898</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.86">
+	<name>85</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06003067</SimpleData>
+		<SimpleData name="Longitude">72.87078155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.87078154832,19.0600306728215</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.87">
+	<name>86</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06050194</SimpleData>
+		<SimpleData name="Longitude">72.87089675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8708967457525,19.060501935045</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.88">
+	<name>87</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06080354</SimpleData>
+		<SimpleData name="Longitude">72.87103917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8710391716689,19.0608035428681</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.89">
+	<name>88</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05610977</SimpleData>
+		<SimpleData name="Longitude">72.86868914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8686891440474,19.0561097711214</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.90">
+	<name>89</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05642604</SimpleData>
+		<SimpleData name="Longitude">72.86891011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8689101136678,19.0564260404358</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.91">
+	<name>90</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05682609</SimpleData>
+		<SimpleData name="Longitude">72.86912480</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8691247997919,19.0568260897012</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.92">
+	<name>91</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05704706</SimpleData>
+		<SimpleData name="Longitude">72.86919915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8691991544983,19.0570470593216</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.93">
+	<name>92</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05719682</SimpleData>
+		<SimpleData name="Longitude">72.86940546</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8694054626273,19.0571968159837</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.94">
+	<name>93</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05738951</SimpleData>
+		<SimpleData name="Longitude">72.86959711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8695971092648,19.0573895098707</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.95">
+	<name>94</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05648992</SimpleData>
+		<SimpleData name="Longitude">72.86698160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.866981603924,19.0564899226484</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.96">
+	<name>95</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05487716</SimpleData>
+		<SimpleData name="Longitude">72.86680776</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.866807760526,19.0548771585944</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.97">
+	<name>96</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05497560</SimpleData>
+		<SimpleData name="Longitude">72.86711356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8671135573466,19.0549756000366</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.98">
+	<name>97</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05514525</SimpleData>
+		<SimpleData name="Longitude">72.86738165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8673816531893,19.0551452544371</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.99">
+	<name>98</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05533166</SimpleData>
+		<SimpleData name="Longitude">72.86766441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8676644105235,19.0553316648278</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.100">
+	<name>99</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05551598</SimpleData>
+		<SimpleData name="Longitude">72.86790947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8679094668797,19.0555159807197</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.101">
+	<name>100</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05478710</SimpleData>
+		<SimpleData name="Longitude">72.86181657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8618165699537,19.0547870951472</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.102">
+	<name>101</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05459859</SimpleData>
+		<SimpleData name="Longitude">72.86203859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8620385868234,19.0545985902578</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.103">
+	<name>102</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05547409</SimpleData>
+		<SimpleData name="Longitude">72.86254127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8625412665286,19.0554740907442</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.104">
+	<name>103</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05538612</SimpleData>
+		<SimpleData name="Longitude">72.86285544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8628554413443,19.0553861217958</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.105">
+	<name>104</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05397443</SimpleData>
+		<SimpleData name="Longitude">72.86377912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8637791153025,19.0539744296239</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.106">
+	<name>105</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05438495</SimpleData>
+		<SimpleData name="Longitude">72.86438443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8643844254474,19.0543849513831</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.107">
+	<name>106</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05440171</SimpleData>
+		<SimpleData name="Longitude">72.86474468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8647446792361,19.0544017073733</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.108">
+	<name>107</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05457974</SimpleData>
+		<SimpleData name="Longitude">72.86533114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8653311388921,19.0545797397688</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.109">
+	<name>108</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05470750</SimpleData>
+		<SimpleData name="Longitude">72.86560133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8656013292336,19.0547075041939</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.110">
+	<name>109</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05417550</SimpleData>
+		<SimpleData name="Longitude">72.86590084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8659008425579,19.0541755015059</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.111">
+	<name>110</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05428651</SimpleData>
+		<SimpleData name="Longitude">72.86610401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8661040089388,19.0542865099408</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.112">
+	<name>111</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05429070</SimpleData>
+		<SimpleData name="Longitude">72.86625062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8662506238528,19.0542906989384</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.113">
+	<name>112</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05426556</SimpleData>
+		<SimpleData name="Longitude">72.86643075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8664307507471,19.0542655649531</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.114">
+	<name>113</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05421739</SimpleData>
+		<SimpleData name="Longitude">72.86659622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8665962161501,19.0542173914814</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.115">
+	<name>114</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05331885</SimpleData>
+		<SimpleData name="Longitude">72.86644541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8664454122385,19.0533188515084</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.116">
+	<name>115</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05342986</SimpleData>
+		<SimpleData name="Longitude">72.86654385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8665438536808,19.0534298599433</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.117">
+	<name>116</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05376917</SimpleData>
+		<SimpleData name="Longitude">72.86662554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8666255391328,19.0537691687443</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.118">
+	<name>117</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05466352</SimpleData>
+		<SimpleData name="Longitude">72.86671979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8667197915776,19.0546635197197</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.119">
+	<name>118</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05513059</SimpleData>
+		<SimpleData name="Longitude">72.86177887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8617788689758,19.0551305929457</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.120">
+	<name>119</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05452319</SimpleData>
+		<SimpleData name="Longitude">72.86069811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8606981076097,19.054523188302</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.121">
+	<name>120</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05559138</SimpleData>
+		<SimpleData name="Longitude">72.85962991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8596299132363,19.0555913826754</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.122">
+	<name>121</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05648364</SimpleData>
+		<SimpleData name="Longitude">72.85999855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8599985450201,19.0564836391521</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.123">
+	<name>122</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06524283</SimpleData>
+		<SimpleData name="Longitude">72.85400409</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8540040895363,19.0652428330142</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.124">
+	<name>123</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06519675</SimpleData>
+		<SimpleData name="Longitude">72.85407111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.854071113497,19.0651967540412</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.125">
+	<name>124</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06500825</SimpleData>
+		<SimpleData name="Longitude">72.85417165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.854171649438,19.0650082491518</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.126">
+	<name>125</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06386465</SimpleData>
+		<SimpleData name="Longitude">72.85470784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8547078411235,19.0638646528226</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.127">
+	<name>126</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06364264</SimpleData>
+		<SimpleData name="Longitude">72.85482513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8548251330547,19.0636426359528</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.128">
+	<name>127</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06334103</SimpleData>
+		<SimpleData name="Longitude">72.85501783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8550178269417,19.0633410281297</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.129">
+	<name>128</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05879597</SimpleData>
+		<SimpleData name="Longitude">72.85830200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8583020010152,19.0587959657957</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.130">
+	<name>129</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05826815</SimpleData>
+		<SimpleData name="Longitude">72.85887589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8588758936786,19.0582681521053</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.131">
+	<name>130</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05792465</SimpleData>
+		<SimpleData name="Longitude">72.85944979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.859449786342,19.0579246543068</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.132">
+	<name>131</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05766075</SimpleData>
+		<SimpleData name="Longitude">72.86013678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.860136781939,19.0576607474616</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.133">
+	<name>132</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05711199</SimpleData>
+		<SimpleData name="Longitude">72.85826849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8582684890349,19.0571119887835</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.134">
+	<name>133</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05726698</SimpleData>
+		<SimpleData name="Longitude">72.85921939</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8592193914771,19.0572669816926</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.135">
+	<name>134</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05714969</SimpleData>
+		<SimpleData name="Longitude">72.85966343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8596634252167,19.0571496897614</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.136">
+	<name>135</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05734657</SimpleData>
+		<SimpleData name="Longitude">72.85627243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8562724317057,19.0573465726459</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.137">
+	<name>136</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05261510</SimpleData>
+		<SimpleData name="Longitude">72.85171271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8517127078803,19.0526150999212</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.138">
+	<name>137</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05330000</SimpleData>
+		<SimpleData name="Longitude">72.85267408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8526740828164,19.0533000010195</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.139">
+	<name>138</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05168619</SimpleData>
+		<SimpleData name="Longitude">72.84357034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8435703439064,19.0516861897161</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.140">
+	<name>139</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05206215</SimpleData>
+		<SimpleData name="Longitude">72.84723676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8472367640058,19.0520621522456</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.141">
+	<name>140</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05194067</SimpleData>
+		<SimpleData name="Longitude">72.84742527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8474252688952,19.0519406713168</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.142">
+	<name>141</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05123064</SimpleData>
+		<SimpleData name="Longitude">72.84244874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8424487398143,19.0512306362333</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.143">
+	<name>142</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05014254</SimpleData>
+		<SimpleData name="Longitude">72.84206859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8420685882873,19.0501425441216</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.144">
+	<name>143</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05092379</SimpleData>
+		<SimpleData name="Longitude">72.84173137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8417313739851,19.0509237921633</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.145">
+	<name>144</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05045672</SimpleData>
+		<SimpleData name="Longitude">72.84104857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8410485673856,19.0504567189373</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.146">
+	<name>145</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04840830</SimpleData>
+		<SimpleData name="Longitude">72.83988193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8398819315699,19.0484082991388</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.147">
+	<name>146</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04843343</SimpleData>
+		<SimpleData name="Longitude">72.83952587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8395258667788,19.0484334331241</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.148">
+	<name>147</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04858005</SimpleData>
+		<SimpleData name="Longitude">72.84032597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8403259653094,19.0485800480381</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.149">
+	<name>148</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04898429</SimpleData>
+		<SimpleData name="Longitude">72.83705226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8370522637297,19.048984286301</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.150">
+	<name>149</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04896962</SimpleData>
+		<SimpleData name="Longitude">72.83792358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8379235752186,19.0489696248096</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.151">
+	<name>150</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04862822</SimpleData>
+		<SimpleData name="Longitude">72.83820633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8382063325527,19.0486282215098</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.152">
+	<name>151</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04858214</SimpleData>
+		<SimpleData name="Longitude">72.83854774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8385477358525,19.0485821425368</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.153">
+	<name>152</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04844181</SimpleData>
+		<SimpleData name="Longitude">72.83785655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8378565512579,19.0484418111192</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.154">
+	<name>153</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04935292</SimpleData>
+		<SimpleData name="Longitude">72.83575786</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8357578634889,19.0493529180847</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.155">
+	<name>154</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04915604</SimpleData>
+		<SimpleData name="Longitude">72.83616001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8361600072531,19.0491560352002</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.156">
+	<name>155</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04781974</SimpleData>
+		<SimpleData name="Longitude">72.84021915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8402191458721,19.047819744984</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.157">
+	<name>156</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04769617</SimpleData>
+		<SimpleData name="Longitude">72.83964944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8396494422063,19.0476961695565</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.158">
+	<name>157</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04772759</SimpleData>
+		<SimpleData name="Longitude">72.83873624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8387362407419,19.0477275870381</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.159">
+	<name>158</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04787630</SimpleData>
+		<SimpleData name="Longitude">72.83850375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8385037513783,19.0478762964509</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.160">
+	<name>159</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04804386</SimpleData>
+		<SimpleData name="Longitude">72.83805553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8380555286412,19.0480438563526</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.161">
+	<name>160</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04806061</SimpleData>
+		<SimpleData name="Longitude">72.83773088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8377308813316,19.0480606123428</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.162">
+	<name>161</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04942832</SimpleData>
+		<SimpleData name="Longitude">72.84212723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8421272342528,19.0494283200405</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.163">
+	<name>162</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04418998</SimpleData>
+		<SimpleData name="Longitude">72.84614029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.846140293899,19.0441899786132</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.164">
+	<name>163</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04451672</SimpleData>
+		<SimpleData name="Longitude">72.84598949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8459894899874,19.0445167204215</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.165">
+	<name>164</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04490630</SimpleData>
+		<SimpleData name="Longitude">72.84587220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8458721980562,19.044906297193</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.166">
+	<name>165</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04524142</SimpleData>
+		<SimpleData name="Longitude">72.84550357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8455035662724,19.0452414169964</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.167">
+	<name>166</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04519534</SimpleData>
+		<SimpleData name="Longitude">72.84528574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8452857384002,19.0451953380234</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.168">
+	<name>167</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04624678</SimpleData>
+		<SimpleData name="Longitude">72.84836046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8483604625967,19.0462467764067</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.169">
+	<name>168</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04619651</SimpleData>
+		<SimpleData name="Longitude">72.84799602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8479960198105,19.0461965084362</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.170">
+	<name>169</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04601219</SimpleData>
+		<SimpleData name="Longitude">72.84735091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8473509141889,19.0460121925443</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.171">
+	<name>170</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04629286</SimpleData>
+		<SimpleData name="Longitude">72.84543235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8454323533142,19.0462928553797</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.172">
+	<name>171</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04609178</SimpleData>
+		<SimpleData name="Longitude">72.84612773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8461277269063,19.0460917834976</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.173">
+	<name>172</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04693587</SimpleData>
+		<SimpleData name="Longitude">72.85125297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8512529654,19.0469358665025</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.174">
+	<name>173</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04684999</SimpleData>
+		<SimpleData name="Longitude">72.85097021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8509702080659,19.0468499920529</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.175">
+	<name>174</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04676202</SimpleData>
+		<SimpleData name="Longitude">72.85057435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8505743477981,19.0467620231045</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.176">
+	<name>175</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04671804</SimpleData>
+		<SimpleData name="Longitude">72.85025179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8502517949873,19.0467180386303</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.177">
+	<name>176</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04657980</SimpleData>
+		<SimpleData name="Longitude">72.84998579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8499857936433,19.0465798017114</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.178">
+	<name>177</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04752861</SimpleData>
+		<SimpleData name="Longitude">72.85099744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8509974365499,19.0475286096548</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.179">
+	<name>178</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04981894</SimpleData>
+		<SimpleData name="Longitude">72.84931346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8493134595377,19.0498189440614</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.180">
+	<name>179</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04823969</SimpleData>
+		<SimpleData name="Longitude">72.85102362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8510236177846,19.0482396919877</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.181">
+	<name>180</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04749196</SimpleData>
+		<SimpleData name="Longitude">72.85170642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8517064243841,19.0474919559263</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.182">
+	<name>181</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05400375</SimpleData>
+		<SimpleData name="Longitude">72.86177259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8617725854796,19.0540037526067</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.183">
+	<name>182</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05354715</SimpleData>
+		<SimpleData name="Longitude">72.86004672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.860046718492,19.0535471518745</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.184">
+	<name>183</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05401632</SimpleData>
+		<SimpleData name="Longitude">72.85947283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8594728258286,19.0540163195993</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.185">
+	<name>184</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05360161</SimpleData>
+		<SimpleData name="Longitude">72.85848422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8584842224085,19.0536016088426</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.186">
+	<name>185</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05309474</SimpleData>
+		<SimpleData name="Longitude">72.85814491</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8581449136075,19.0530947401399</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.187">
+	<name>186</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05296279</SimpleData>
+		<SimpleData name="Longitude">72.85808627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8580862676419,19.0529627867173</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.188">
+	<name>187</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05188621</SimpleData>
+		<SimpleData name="Longitude">72.85655938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8565593780375,19.0518862143488</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.189">
+	<name>188</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05168933</SimpleData>
+		<SimpleData name="Longitude">72.85628500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8562849986984,19.0516893314643</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.190">
+	<name>189</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05079707</SimpleData>
+		<SimpleData name="Longitude">72.85556868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8555686801186,19.0507970749876</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.191">
+	<name>190</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05050594</SimpleData>
+		<SimpleData name="Longitude">72.85557287</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8555728691162,19.0505059396584</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.192">
+	<name>191</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05050594</SimpleData>
+		<SimpleData name="Longitude">72.85586191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8558619099466,19.0505059396584</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.193">
+	<name>192</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05040540</SimpleData>
+		<SimpleData name="Longitude">72.85596454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8559645403864,19.0504054037174</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.194">
+	<name>193</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05026926</SimpleData>
+		<SimpleData name="Longitude">72.85604832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8560483203373,19.0502692612972</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.195">
+	<name>194</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04960949</SimpleData>
+		<SimpleData name="Longitude">72.85527964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8552796392881,19.0496094941842</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.196">
+	<name>195</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04933093</SimpleData>
+		<SimpleData name="Longitude">72.85491101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8549110075044,19.0493309258476</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.197">
+	<name>196</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04916127</SimpleData>
+		<SimpleData name="Longitude">72.85456123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8545612262096,19.0491612714472</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.198">
+	<name>197</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04893716</SimpleData>
+		<SimpleData name="Longitude">72.85425752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8542575238877,19.0489371600786</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.199">
+	<name>198</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04884500</SimpleData>
+		<SimpleData name="Longitude">72.85410672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8541067199761,19.0488450021327</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.200">
+	<name>199</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04871724</SimpleData>
+		<SimpleData name="Longitude">72.85376951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8537695056739,19.0487172377076</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.201">
+	<name>200</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04853502</SimpleData>
+		<SimpleData name="Longitude">72.85367106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8536710642317,19.0485350163145</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.202">
+	<name>201</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04835908</SimpleData>
+		<SimpleData name="Longitude">72.85339459</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8533945903939,19.0483590784177</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.203">
+	<name>202</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.04795693</SimpleData>
+		<SimpleData name="Longitude">72.85278090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8527809022538,19.0479569346536</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.204">
+	<name>203</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05226532</SimpleData>
+		<SimpleData name="Longitude">72.84929147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8492914673007,19.0522653186264</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.205">
+	<name>204</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05287691</SimpleData>
+		<SimpleData name="Longitude">72.85213789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8521378911311,19.0528769122677</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.206">
+	<name>205</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05520809</SimpleData>
+		<SimpleData name="Longitude">72.85798783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8579878261997,19.0552080894003</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.207">
+	<name>206</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05921905</SimpleData>
+		<SimpleData name="Longitude">72.85721496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8572149561531,19.0592190545476</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.208">
+	<name>207</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05880015</SimpleData>
+		<SimpleData name="Longitude">72.85697618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8569761832932,19.0588001547933</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.209">
+	<name>208</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.05616109</SimpleData>
+		<SimpleData name="Longitude">72.86460435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8646043478187,19.0561610863413</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.210">
+	<name>209</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06440922</SimpleData>
+		<SimpleData name="Longitude">72.87110672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8711067192546,19.0644092225032</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.211">
+	<name>210</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06556015</SimpleData>
+		<SimpleData name="Longitude">72.87172564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8717256436416,19.0655601495781</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.212">
+	<name>211</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.06677077</SimpleData>
+		<SimpleData name="Longitude">72.87237913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8723791272583,19.066770769868</coordinates></Point>
+  </Placemark>
+  <Placemark id="gerbage_locations.213">
+	<name>212</name>
+	<ExtendedData><SchemaData schemaUrl="#gerbage_locations">
+		<SimpleData name="Latitude">19.07082781</SimpleData>
+		<SimpleData name="Longitude">72.87301376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.873013760386,19.0708278139883</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

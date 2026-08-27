@@ -1,0 +1,131 @@
+{
+  "name": "Mithi River Lithological Interpretation",
+  "theme": "Geology",
+  "kind": "Estimated",
+  "note": "Provisional spectral lithology from Mithi_River_Lithology_Interpretation_Map.tif. Class labels and colours match the KMZ legend (field validation required).",
+  "bounds": {
+    "north": 19.094260871183593,
+    "south": 19.038481978963834,
+    "east": 72.88661777120646,
+    "west": 72.82722078868055
+  },
+  "raster": "/asset/mula-mutha-spectral-lithology.png",
+  "legend": "/asset/mula-mutha-spectral-lithology-legend.png",
+  "imageCoordinates": [
+    [
+      72.82722078868055,
+      19.094260871183593
+    ],
+    [
+      72.88661777120646,
+      19.094260871183593
+    ],
+    [
+      72.88661777120646,
+      19.038481978963834
+    ],
+    [
+      72.82722078868055,
+      19.038481978963834
+    ]
+  ],
+  "classes": [
+    {
+      "id": 0,
+      "key": "655940",
+      "label": "Silty / Sandy Channel Sediment",
+      "color": "#655940",
+      "class": 0,
+      "pixels": 424361,
+      "share_pct": 18.7,
+      "area_ha": 725.6
+    },
+    {
+      "id": 1,
+      "key": "8B0000",
+      "label": "Basaltic / Fresh Basalt Spectral Zone",
+      "color": "#8b0000",
+      "class": 1,
+      "pixels": 145086,
+      "share_pct": 6.4,
+      "area_ha": 248.3
+    },
+    {
+      "id": 2,
+      "key": "FFD700",
+      "label": "Weathered Basalt",
+      "color": "#ffd700",
+      "class": 2,
+      "pixels": 108710,
+      "share_pct": 4.8,
+      "area_ha": 186.3
+    },
+    {
+      "id": 3,
+      "key": "FF0000",
+      "label": "Lateritic / Ferruginous Zone",
+      "color": "#ff0000",
+      "class": 3,
+      "pixels": 196532,
+      "share_pct": 8.7,
+      "area_ha": 337.6
+    },
+    {
+      "id": 4,
+      "key": "9370DB",
+      "label": "Clay-Rich / Altered Zone",
+      "color": "#9370db",
+      "class": 4,
+      "pixels": 140966,
+      "share_pct": 6.2,
+      "area_ha": 240.6
+    },
+    {
+      "id": 5,
+      "key": "F4A460",
+      "label": "Alluvial / Sandy-Clayey Sediment",
+      "color": "#f4a460",
+      "class": 5,
+      "pixels": 493815,
+      "share_pct": 21.8,
+      "area_ha": 845.9
+    },
+    {
+      "id": 6,
+      "key": "00A6A6",
+      "label": "Estuarine / Clayey-Silt Sediment",
+      "color": "#00a6a6",
+      "class": 6,
+      "pixels": 18912,
+      "share_pct": 0.8,
+      "area_ha": 31.0
+    },
+    {
+      "id": 7,
+      "key": "808080",
+      "label": "Mixed Weathered Geological Material",
+      "color": "#808080",
+      "class": 7,
+      "pixels": 318575,
+      "share_pct": 14.1,
+      "area_ha": 547.1
+    },
+    {
+      "id": 8,
+      "key": "FF69B4",
+      "label": "Exposed / Bright Mineral Surface",
+      "color": "#ff69b4",
+      "class": 8,
+      "pixels": 405104,
+      "share_pct": 17.9,
+      "area_ha": 694.6
+    }
+  ],
+  "total_pixels": 2266148,
+  "total_area_ha": 3880.4,
+  "width": 2561,
+  "height": 2405,
+  "source_kmz": "dfe45ce38aae47a7b6a29c9eefd90124.kmz",
+  "source_name": "Mithi River - Lithological Interpretation",
+  "classified_pixels": 2252061
+}

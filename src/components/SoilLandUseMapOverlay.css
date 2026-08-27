@@ -1,0 +1,362 @@
+.lulc-embed .is-off {
+  opacity: 0.72;
+}
+
+.lulc-check-text {
+  font-family: var(--rv-font-display);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.25;
+  color: inherit;
+}
+
+.lulc-group + .lulc-group {
+  margin-top: 10px;
+}
+
+.lulc-group-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 5px;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--rv-ink-muted, #6b8798);
+}
+
+.lulc-group-head em {
+  font-style: normal;
+  font-family: var(--rv-font-mono);
+  letter-spacing: 0;
+  color: var(--rv-ink-2, #3a5c73);
+}
+
+.lulc-class + .lulc-class {
+  margin-top: 5px;
+}
+
+.lulc-class-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11.5px;
+  color: var(--rv-ink-2, #3a5c73);
+}
+
+.lulc-sw {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  flex: 0 0 auto;
+  box-shadow: inset 0 0 0 1px rgba(13, 36, 54, 0.12);
+}
+
+.lulc-label {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lulc-val,
+.lulc-pct {
+  font-family: var(--rv-font-mono);
+  font-size: 10.5px;
+  flex: 0 0 auto;
+}
+
+.lulc-val {
+  color: var(--rv-ink-muted, #6b8798);
+}
+
+.lulc-pct {
+  color: var(--rv-ink);
+  min-width: 34px;
+  text-align: right;
+}
+
+.lulc-track {
+  margin-top: 3px;
+  height: 4px;
+  border-radius: 99px;
+  background: rgba(13, 36, 54, 0.08);
+  overflow: hidden;
+}
+
+.lulc-fill {
+  height: 100%;
+  border-radius: 99px;
+}
+
+.lulc-note {
+  margin: 10px 0 0;
+  font-size: 10px;
+  line-height: 1.4;
+  color: var(--rv-ink-muted, #6b8798);
+}
+
+.lulc-prov {
+  margin-top: 8px;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--rv-ink-muted, #6b8798);
+}
+
+.lulc-info-drop {
+  margin-top: 8px;
+  padding: 8px 0 0;
+  border-top: 1px solid var(--rv-line);
+}
+
+.lulc-info-drop.is-off {
+  opacity: 0.72;
+}
+
+.lulc-info-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.lulc-info-head .lulc-check-text {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 13px;
+}
+
+.lulc-info-toggle {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin: 0;
+  padding: 3px 8px;
+  border: 1px solid var(--rv-line);
+  border-radius: 999px;
+  background: var(--rv-surface, #fff);
+  color: var(--rv-ink-2, #3a5c73);
+  font-family: var(--rv-font-body);
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.lulc-info-toggle:hover {
+  border-color: #0e8f9c;
+  color: #0a6f7a;
+}
+
+.lulc-info-drop.is-open .lulc-info-toggle {
+  border-color: #0e8f9c;
+  background: rgba(14, 143, 156, 0.08);
+  color: #0a6f7a;
+}
+
+.lulc-info-caret {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid currentColor;
+  transition: transform 0.15s ease;
+}
+
+.lulc-info-drop.is-open .lulc-info-caret {
+  transform: rotate(180deg);
+}
+
+.lulc-info-body {
+  margin-top: 8px;
+}
+
+.lulc-info-body .lulc-group-head {
+  margin-top: 0;
+}
+
+.lulc-sw-volume {
+  background: linear-gradient(180deg, #662506 0%, #cc4c02 50%, #fff7bc 100%);
+}
+
+.lulc-period-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.lulc-series-block > .lulc-period-head:first-child {
+  margin-top: 0;
+}
+
+.lulc-period-head span,
+.lulc-year-tag {
+  font-family: var(--rv-font-mono);
+  font-size: 11px;
+  color: var(--rv-muted, #6b8798);
+}
+
+.lulc-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.lulc-stats span {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  border-radius: 8px;
+  background: var(--rv-surface-2, #f4f9fc);
+  font-family: var(--rv-font-mono);
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.lulc-stats em {
+  font-style: normal;
+  font-family: var(--rv-font-body);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--rv-muted, #6b8798);
+  font-weight: 650;
+}
+
+.lulc-year-bars {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 4px;
+  height: 88px;
+  margin-top: 10px;
+  align-items: end;
+}
+
+.lulc-year-bar {
+  position: relative;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.lulc-year-bar-forest,
+.lulc-year-bar-settle {
+  position: absolute;
+  left: 18%;
+  right: 18%;
+  bottom: 16px;
+  border-radius: 3px 3px 0 0;
+}
+
+.lulc-year-bar-forest {
+  background: rgba(0, 100, 0, 0.35);
+}
+
+.lulc-year-bar-settle {
+  background: #c62828;
+}
+
+.lulc-year-bar em {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-style: normal;
+  font-size: 9px;
+  font-weight: 650;
+  color: var(--rv-muted, #6b8798);
+}
+
+.lulc-year-bar.is-on em {
+  color: var(--rv-ink);
+  font-weight: 700;
+}
+
+.lulc-year-bar.is-on .lulc-year-bar-settle {
+  box-shadow: 0 0 0 1px #7f0000;
+}
+
+.lulc-bar-caption {
+  margin-top: 6px;
+  font-size: 10px;
+  line-height: 1.4;
+  color: var(--rv-muted, #6b8798);
+}
+
+.lulc-months {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  height: 64px;
+  margin-top: 8px;
+  align-items: end;
+}
+
+.lulc-month {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 4px;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  color: var(--rv-muted, #6b8798);
+}
+
+.lulc-month-bar {
+  width: 100%;
+  border-radius: 3px 3px 0 0;
+  background: #e51f1f;
+  opacity: 0.45;
+}
+
+.lulc-month.is-on .lulc-month-bar {
+  opacity: 1;
+}
+
+.lulc-month em {
+  font-style: normal;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.lulc-month.is-on em {
+  color: var(--rv-ink, #123);
+}
+
+.lulc-volume-scale {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 6px 8px;
+  align-items: center;
+  margin-top: 10px;
+  font-family: var(--rv-font-mono);
+  font-size: 10px;
+  color: var(--rv-muted, #6b8798);
+}
+
+.lulc-volume-bar {
+  height: 8px;
+  border-radius: 4px;
+  background: linear-gradient(90deg, #fff7bc, #fec44f, #d95f0e, #662506);
+}
+
+.lulc-volume-scale em {
+  grid-column: 1 / -1;
+  font-style: normal;
+  font-family: var(--rv-font-body);
+}

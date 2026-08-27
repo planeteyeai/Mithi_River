@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="drainage2" id="drainage2">
+	<SimpleField name="full_id" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="osm_type" type="string"></SimpleField>
+	<SimpleField name="waterway" type="string"></SimpleField>
+	<SimpleField name="alt_name_e" type="string"></SimpleField>
+	<SimpleField name="tunnel" type="string"></SimpleField>
+	<SimpleField name="designatio" type="string"></SimpleField>
+	<SimpleField name="width" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="wikipedia" type="string"></SimpleField>
+	<SimpleField name="wikimedia_" type="string"></SimpleField>
+	<SimpleField name="wikidata" type="string"></SimpleField>
+	<SimpleField name="name_mr" type="string"></SimpleField>
+	<SimpleField name="name_hi" type="string"></SimpleField>
+	<SimpleField name="name_en" type="string"></SimpleField>
+	<SimpleField name="intermitte" type="string"></SimpleField>
+</Schema>
+<Folder><name>drainage2</name>
+  <Placemark id="drainage2.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w48870794</SimpleData>
+		<SimpleData name="osm_id">48870794</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">stream</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8537624244254,19.0678718355193 72.8538552,19.0678314 72.8541234,19.0676793</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w49055889</SimpleData>
+		<SimpleData name="osm_id">49055889</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8525365176592,19.0672474861857 72.8530759,19.0662225 72.8541352,19.0653553 72.857573,19.0595016 72.8575945,19.058883 72.857219,19.0582543 72.857101,19.0573112</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w49682805</SimpleData>
+		<SimpleData name="osm_id">49682805</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8656733859225,19.0706874132279 72.8659166,19.0708071 72.8677522,19.0713039 72.8679533,19.0712381</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.4">
+	<name>Mithi River</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w204352191</SimpleData>
+		<SimpleData name="osm_id">204352191</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">river</SimpleData>
+		<SimpleData name="wikipedia">en:Mithi_River</SimpleData>
+		<SimpleData name="wikimedia_">Category:Mithi_River</SimpleData>
+		<SimpleData name="wikidata">Q6881611</SimpleData>
+		<SimpleData name="name_mr">मिठी नदी</SimpleData>
+		<SimpleData name="name_hi">मिठी नदी</SimpleData>
+		<SimpleData name="name_en">Mithi River</SimpleData>
+		<SimpleData name="intermitte">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.878796,19.0876913 72.8786636,19.0854841 72.8778152,19.0837726 72.8775705,19.083233 72.8776112,19.0819995 72.8784841,19.0806042 72.8786806,19.0797335 72.8785657,19.0793244 72.8779946,19.078885 72.8772278,19.0788773 72.8765997,19.0790469 72.8763395,19.0789818 72.8762262,19.0789534 72.8755393,19.0778288 72.8748867,19.0772737 72.8735798,19.076672 72.8719092,19.0757704 72.8715366,19.0754927 72.8714726,19.0753295 72.8717673,19.0743916 72.8721546,19.0731764 72.8727658,19.0720107 72.873202,19.071424 72.8734019,19.0705633 72.8727207,19.067265 72.8695579,19.0597916 72.8682171,19.0566072 72.8661285,19.0555638 72.8648151,19.0555792 72.8638118,19.0560284 72.8629321,19.0563884 72.8617251,19.0565912 72.8607112,19.0568853 72.8600782,19.0572859 72.8593218,19.0576104 72.8587103,19.0577625 72.857101,19.0573112 72.8566914,19.0570472 72.8552907,19.0554699 72.8518102,19.0522152 72.8503619,19.0517322 72.8497886,19.051701 72.8491715,19.051863 72.8485405,19.0519057 72.8482684,19.0518934 72.8478448,19.0517546 72.8475989,19.0516978 72.8466962,19.051603 72.8449262,19.051622 72.8442436,19.0514993 72.8437592,19.0513328 72.8431831,19.0512561 72.8416212,19.0505086</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.5">
+	<name>Mithi River</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w204352192</SimpleData>
+		<SimpleData name="osm_id">204352192</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">river</SimpleData>
+		<SimpleData name="tunnel">culvert</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+		<SimpleData name="wikipedia">en:Mithi_River</SimpleData>
+		<SimpleData name="wikimedia_">Category:Mithi_River</SimpleData>
+		<SimpleData name="wikidata">Q6881611</SimpleData>
+		<SimpleData name="name_mr">मिठी नदी</SimpleData>
+		<SimpleData name="name_hi">मिठी नदी</SimpleData>
+		<SimpleData name="name_en">Mithi River</SimpleData>
+		<SimpleData name="intermitte">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8788436,19.0912659 72.878796,19.0876913</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.6">
+	<name>Mithi River</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w204352194</SimpleData>
+		<SimpleData name="osm_id">204352194</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">river</SimpleData>
+		<SimpleData name="wikipedia">en:Mithi_River</SimpleData>
+		<SimpleData name="wikimedia_">Category:Mithi_River</SimpleData>
+		<SimpleData name="wikidata">Q6881611</SimpleData>
+		<SimpleData name="name_mr">मिठी नदी</SimpleData>
+		<SimpleData name="name_hi">मिठी नदी</SimpleData>
+		<SimpleData name="name_en">Mithi River</SimpleData>
+		<SimpleData name="intermitte">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8788883331914,19.0941380742113 72.8788267,19.0940871 72.8784759,19.0933934 72.8786079,19.0921225 72.8788436,19.0912659</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.7">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w219943420</SimpleData>
+		<SimpleData name="osm_id">219943420</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">stream</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8666992,19.0543946 72.8663169,19.0544797 72.8647559,19.0542271 72.863149,19.0539468 72.8586948,19.0529645 72.8580914,19.0528783 72.8577816,19.052891 72.8571005,19.052929 72.8558792,19.0531681 72.8553505,19.0530904 72.8549191,19.0529367 72.8547428,19.0526774 72.8546594,19.0524458 72.8545424,19.0523348 72.8537171,19.0520746 72.8534646,19.0520053 72.8532345,19.0519941 72.852808,19.0520206 72.8522734,19.0521085 72.852135,19.0521404 72.8518102,19.0522152</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.8">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w219943423</SimpleData>
+		<SimpleData name="osm_id">219943423</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8622129635349,19.0470368590392 72.8644782,19.0504296 72.8648852,19.0510036 72.8662478,19.0530365</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.9">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w235500048</SimpleData>
+		<SimpleData name="osm_id">235500048</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8423246,19.0542246 72.8423928,19.0537252 72.8427931,19.0526921 72.8429338,19.0524572 72.8431911,19.0523574 72.8442819,19.0527586 72.844471,19.0527981 72.8445418,19.0526999</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.10">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w235500049</SimpleData>
+		<SimpleData name="osm_id">235500049</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">culvert</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8435897,19.0552714 72.843631,19.0551413</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.11">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w257412667</SimpleData>
+		<SimpleData name="osm_id">257412667</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8662478,19.0530365 72.866523,19.053511 72.8666394,19.0538742 72.8666992,19.0543946</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.12">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w260766037</SimpleData>
+		<SimpleData name="osm_id">260766037</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8665635,19.0517608 72.8667357,19.0516498</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.13">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w398341612</SimpleData>
+		<SimpleData name="osm_id">398341612</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8667357,19.0516498 72.8669749,19.0515009</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.14">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w398341613</SimpleData>
+		<SimpleData name="osm_id">398341613</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8669749,19.0515009 72.8665072,19.0506813 72.8661416,19.0504477 72.8649498,19.0486957</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.15">
+	<name>Mithi River</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108354</SimpleData>
+		<SimpleData name="osm_id">420108354</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">river</SimpleData>
+		<SimpleData name="name_mr">मिठी नदी</SimpleData>
+		<SimpleData name="name_en">Mithi River</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8400412,19.0480714 72.8393269,19.0478994 72.8388524,19.0480425 72.8380971,19.0482703 72.8369191,19.0487247</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.16">
+	<name>Mithi River</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108355</SimpleData>
+		<SimpleData name="osm_id">420108355</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">river</SimpleData>
+		<SimpleData name="name_mr">मिठी नदी</SimpleData>
+		<SimpleData name="name_en">Mithi River</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8416212,19.0505086 72.8410193,19.05035 72.8404521,19.050016 72.8401574,19.0496808 72.8400447,19.0492937 72.8400205,19.0488438 72.8400412,19.0480714</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.17">
+	<name>Mithi River</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108356</SimpleData>
+		<SimpleData name="osm_id">420108356</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">river</SimpleData>
+		<SimpleData name="name_mr">मिठी नदी</SimpleData>
+		<SimpleData name="name_en">Mithi River</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8416212,19.0505086 72.8416699,19.0499022 72.8416055,19.0493343 72.8413534,19.0488374 72.8409994,19.0484875 72.8405648,19.0483151 72.8400412,19.0480714</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.18">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108362</SimpleData>
+		<SimpleData name="osm_id">420108362</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">stream</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8580914,19.0528783 72.8576756,19.0524597 72.8572545,19.0521301 72.8565592,19.0518934 72.8562889,19.0517206 72.8560234,19.051367 72.8557042,19.0508472 72.8557116,19.0507601 72.8559664,19.0505902 72.8561193,19.0504508 72.8561682,19.0502337 72.8560529,19.0499903 72.8558196,19.0497875 72.8555192,19.0496594 72.8550659,19.0495048 72.8548921,19.0493983 72.8542005,19.0489823 72.8540732,19.0489449 72.853977,19.0489093 72.8538765,19.0488823</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.19">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108363</SimpleData>
+		<SimpleData name="osm_id">420108363</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8504129,19.0467084 72.8506677,19.0478137</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.20">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108364</SimpleData>
+		<SimpleData name="osm_id">420108364</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">culvert</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8445418,19.0526999 72.8448826,19.0521244</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.21">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108367</SimpleData>
+		<SimpleData name="osm_id">420108367</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8480614,19.0461603 72.8485031,19.0462976 72.8504129,19.0467084</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.22">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108368</SimpleData>
+		<SimpleData name="osm_id">420108368</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">stream</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8680801,19.0536726 72.8675715,19.0538716 72.8666992,19.0543946</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.23">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108369</SimpleData>
+		<SimpleData name="osm_id">420108369</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8448826,19.0521244 72.8449262,19.051622</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.24">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108370</SimpleData>
+		<SimpleData name="osm_id">420108370</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8504129,19.0467084 72.8510335,19.0468348 72.8511478,19.0468959 72.8511263,19.0470481 72.8506677,19.0478137</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.25">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108372</SimpleData>
+		<SimpleData name="osm_id">420108372</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8506677,19.0478137 72.8488077,19.0503232 72.8484066,19.0507496 72.8478723,19.0514386 72.8475989,19.0516978</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.26">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108373</SimpleData>
+		<SimpleData name="osm_id">420108373</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">stream</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8538765,19.0488823 72.8535019,19.0493784 72.8530845,19.0499911 72.8527862,19.0503208 72.8525975,19.0506006 72.8525281,19.0507142 72.8524787,19.0507805 72.8523578,19.0510775 72.8522807,19.051334 72.8521178,19.051924 72.8519744,19.05204 72.8518102,19.0522152</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.27">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108375</SimpleData>
+		<SimpleData name="osm_id">420108375</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8480614,19.0461603 72.8476354,19.0461661 72.8469676,19.046052 72.8464392,19.0459759 72.8461978,19.0460216 72.8458652,19.0461407 72.8455219,19.0463207 72.8453958,19.0464298 72.8436933,19.0506886 72.8436891,19.0508198 72.8437592,19.0513328</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.28">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w420108376</SimpleData>
+		<SimpleData name="osm_id">420108376</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">stream</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8538765,19.0488823 72.8537325,19.0488196 72.8536147,19.04876 72.8534968,19.0486263 72.853132,19.0483575 72.8525151,19.0478885 72.8523925,19.0477756 72.8522064,19.0474928 72.8520462,19.0474143 72.8519099,19.0474005 72.8517998,19.0474354</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.29">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w430418396</SimpleData>
+		<SimpleData name="osm_id">430418396</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8714023,19.0722748 72.8717415,19.0717475 72.8727658,19.0720107</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.30">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w430418397</SimpleData>
+		<SimpleData name="osm_id">430418397</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8679533,19.0712381 72.8684697,19.0709282 72.8706333,19.0720681 72.8714023,19.0722748</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.31">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w434887994</SimpleData>
+		<SimpleData name="osm_id">434887994</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8415753659503,19.0578852117706 72.8415837,19.0573847</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.32">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w434904731</SimpleData>
+		<SimpleData name="osm_id">434904731</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8471178,19.0535743 72.8477749,19.0525932</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.33">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w434904732</SimpleData>
+		<SimpleData name="osm_id">434904732</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8477749,19.0525932 72.8482684,19.0518934</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.34">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w434908168</SimpleData>
+		<SimpleData name="osm_id">434908168</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8509015221916,19.0402635764433 72.850881,19.040314 72.8500092,19.041293 72.8491561,19.0421899 72.848829,19.0426971 72.8486605,19.0431751 72.8485582,19.0436764 72.8480742,19.0460361 72.8480614,19.0461603</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.35">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w436370690</SimpleData>
+		<SimpleData name="osm_id">436370690</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8741055,19.0782234 72.8740599,19.0781423 72.8740331,19.0779166 72.8739446,19.0776125 72.8738561,19.0774984 72.8738641,19.0773894 72.8737085,19.077179 72.8734913,19.0769635 72.8735233,19.0768261 72.8735494,19.0767139</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.36">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w436370692</SimpleData>
+		<SimpleData name="osm_id">436370692</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8802739,19.0801442 72.879598,19.0800631 72.8793542,19.0799755</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.37">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w436370694</SimpleData>
+		<SimpleData name="osm_id">436370694</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8706421,19.081622 72.8734584,19.0802836 72.874306,19.0799312 72.8759663,19.0791682 72.8763395,19.0789818</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.38">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w436370696</SimpleData>
+		<SimpleData name="osm_id">436370696</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8733438,19.0776682 72.8733572,19.0774198 72.8732982,19.0770599 72.8734333,19.0768009 72.8735494,19.0767139 72.8735798,19.076672</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.39">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w786149540</SimpleData>
+		<SimpleData name="osm_id">786149540</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8434246,19.0558352 72.8435897,19.0552714</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.40">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w786149541</SimpleData>
+		<SimpleData name="osm_id">786149541</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.843631,19.0551413 72.8439982,19.0538707 72.8441741,19.0534279 72.844471,19.0527981</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.41">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w786167565</SimpleData>
+		<SimpleData name="osm_id">786167565</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">culvert</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8415647,19.0564935 72.8415691,19.0564222</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.42">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w786167566</SimpleData>
+		<SimpleData name="osm_id">786167566</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8415837,19.0573847 72.8415542,19.0569436 72.8415647,19.0564935</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.43">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w1170043414</SimpleData>
+		<SimpleData name="osm_id">1170043414</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">culvert</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8422355,19.0546543 72.8423246,19.0542246</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.44">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w1170043415</SimpleData>
+		<SimpleData name="osm_id">1170043415</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8415691,19.0564222 72.8416374,19.0558737 72.8417956,19.0557926 72.8419592,19.055425 72.8422355,19.0546543</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.45">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w1508895773</SimpleData>
+		<SimpleData name="osm_id">1508895773</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8792934,19.0799537 72.8786806,19.0797335</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.46">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#drainage2">
+		<SimpleData name="full_id">w1508895774</SimpleData>
+		<SimpleData name="osm_id">1508895774</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="waterway">drain</SimpleData>
+		<SimpleData name="tunnel">culvert</SimpleData>
+		<SimpleData name="layer">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>72.8793542,19.0799755 72.8792934,19.0799537</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.47">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8772278,19.0788773 72.8773965932481,19.0786703726331 72.8779022425292,19.0783799659514 72.8783105201582,19.0781493488806 72.8786043433892,19.0780605186015 72.8788725425011,19.0780793096221 72.8790297037642,19.0780793096221 72.8792312801668,19.0781100585649 72.8793286518189,19.0781408075076 72.8794208986472,19.0781698481758</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.48">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8775871107254,19.082729363494 72.8775864664215,19.0827294923547 72.8775818294794,19.0827309486859 72.8775690661275,19.0827423538862 72.8771153126047,19.0831434667642 72.8769404219573,19.0832199159694 72.8764366950027,19.083851407349 72.8762157253824,19.0842849685947 72.8760523544782,19.0846347498895 72.8759518185372,19.0847960262949 72.8758596605912,19.08480440429 72.8757256126699,19.0848106877863 72.875614604235,19.084858861258 72.8755622417657,19.0849614916978 72.8754700838197,19.0851688470762 72.8753423193947,19.0853929584448 72.8752941459229,19.0854725493981 72.8752040824758,19.0857322672457</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.49">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.877575055085,19.0829612453711 72.8777070085077,19.0829382058846 72.8781091522718,19.0828125359584 72.8784337995813,19.0826198420714 72.8786034539818,19.0824606601648 72.8789197232963,19.0822616827815 72.8791187006796,19.0821779028306 72.8791982916329,19.0821171623662 72.8792192366206,19.0820962173785</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.50">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8780351846219,19.0854038144983 72.8782272576457,19.0853268450313</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.51">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8715649299326,19.0755072592895 72.871378009464,19.0755124207329 72.871369911996,19.0755124072352 72.8713557504564,19.0755162204538 72.8713375470983,19.0755219445426 72.8713294569919,19.0755238486963 72.8712505928324,19.0755430216119 72.8712465459168,19.0755449495539 72.8712323828839,19.0755488066268 72.871214167194,19.0755545934619 72.8711999921647,19.0755603816283 72.8710947263965,19.0755815607166 72.8710886511672,19.0755815685201 72.8710683991278,19.0755815944237 72.8710237846697,19.0755893667245 72.8710095590196,19.075595173828 72.8709791962375,19.0756047525366 72.8709245050236,19.0756162847797 72.8709102578141,19.0756220980118 72.8709001050499,19.0756221243421 72.8708472977148,19.0756375838163</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.52">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8717608920054,19.0756637423567 72.8715978376868,19.0757389040883 72.871583563728,19.0757485290245 72.8714266575618,19.0758182384286 72.8714205379533,19.0758201650807 72.8714103397647,19.0758240281823 72.8714021798952,19.0758259521439 72.8713613800437,19.0758316573408 72.8713511819341,19.075833572864 72.8713226297617,19.0758393277744 72.8713165113296,19.0758412603598 72.8713042740313,19.0758451255802 72.8712492155137,19.075860500357 72.871236985168,19.0758643234565 72.8712267926243,19.075868160342 72.8712125305694,19.0758719590979 72.8711942007775,19.0758776549139 72.8711819797776,19.0758833927445 72.8710965508277,19.075902174084 72.8710904469709,19.0759060066604 72.8710823196572,19.075907882328 72.8710173550625,19.0759209371743</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.53">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8726203601601,19.0722884179037 72.8728765988815,19.0722627627858 72.8728823503548,19.0722627488025 72.8728924149925,19.0722627243268 72.8729024790846,19.0722626998924 72.8729111050006,19.0722626789093 72.8729254806355,19.0722626440117 72.8729283556417,19.0722626369992 72.8729384776421,19.0722612051313 72.8731669210977,19.072253671755 72.8731697863361,19.0722536779443 72.8731769679041,19.0722522816097 72.8731841386726,19.0722522596908 72.8731927431131,19.0722522333482 72.8731999128931,19.0722522114573 72.873327390091,19.0722407597816 72.8733331165787,19.0722407678862 72.8733402646003,19.0722393986956 72.8733531111973,19.0722365856978 72.873358813204,19.0722351675593 72.8737344322671,19.072131477805 72.8738370799143,19.0720868273358 72.8738451785878,19.0720814859543 72.8738545886763,19.0720761129243 72.8738627725656,19.0720734164941 72.8738736915468,19.0720694003042 72.8738832891576,19.0720667182055 72.8738928802809,19.0720640378619 72.8739964080483,19.0720346272004</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.54">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.868459807363,19.0571808862303 72.8685110372386,19.0571525868945 72.8686167555235,19.0571204578289 72.8686322045673,19.057117303231 72.8686399348519,19.057115724714 72.8686534707141,19.0571124893177 72.8686592739207,19.0571108327817 72.8686689381367,19.0571090053108 72.8686960098962,19.0571072320823 72.8687191493546,19.0571014590339 72.8687326453974,19.0570994828202 72.8688778277867,19.0570702300747 72.868890706151,19.0570600655351 72.8689000914943,19.0570578360274 72.8689150437584,19.0570534955232 72.868924393851,19.0570512749173 72.8689355181722,19.0570470588588 72.8689486960312,19.0570449350615 72.8689694109539,19.0570409333073 72.8690995701088,19.0570053062444 72.8691089497156,19.0570051829497 72.8691161029681,19.0569994894274 72.869125352098,19.0569975043996 72.8691363444544,19.0569936360277 72.869143705132,19.0569916796727 72.8691566669662,19.0569896526815 72.869164140659,19.0569895565352 72.8691733497872,19.0569875783789 72.8691879915716,19.0569836492032 72.8691954501567,19.0569835533513 72.8692863858329,19.0569650959083 72.8692917194638,19.0569631282597 72.8693042013592,19.0569591581557 72.8693133430347,19.0569589580524 72.8693243055363,19.0569587181544 72.8693801866901,19.0569502248155 72.8693838411197,19.0569501611447 72.8693911479315,19.0569500340301 72.8695493848422,19.0568919085615 72.8695564835378,19.0568900644858 72.8695635778725,19.0568882215772 72.8695777015697,19.0568845110776 72.8695881637048,19.0568808325092 72.8696020251138,19.0568753427381 72.8696732374788,19.0568449097799 72.869680115092,19.0568413682626 72.8696835519968,19.0568395986343</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.55">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8559281650171,19.0498642530046 72.8560546149361,19.0497658993553 72.8561914619036,19.0496027837293 72.8561949310872,19.0495981289668 72.8563726415151,19.0494304935626 72.8563792156876,19.049426885327 72.8565241194279,19.0493094307855 72.8565292199096,19.0493041482304 72.8567350110341,19.0491446171289</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="drainage2.56">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>72.8445068783042,19.0466964054339 72.8448018361763,19.0462837277329 72.8452007744197,19.0456906607203 72.8452265224064,19.0456544695828 72.8452779492579,19.0456062554357 72.8452908271873,19.0455821346141 72.845778266189,19.0450998288921 72.8458167010931,19.0450395395607 72.8458295135118,19.0449912338354 72.8458423223232,19.0449671133794 72.8462091725668,19.0440772908121 72.8463978325304,19.0435842293181 72.8465497992547,19.0431905349836 72.8465494734167,19.0431793827115 72.8465545233232,19.0431571123042 72.8465947007578,19.0429859750313</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

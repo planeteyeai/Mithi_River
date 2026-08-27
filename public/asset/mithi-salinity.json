@@ -1,0 +1,86 @@
+{
+  "name": "Mithi Relative Salinity Classes",
+  "kind": "Estimated",
+  "note": "Relative salinity classification, water pixels only. Class order Low\u2192High by convention.",
+  "bounds": {
+    "north": 19.08785231,
+    "south": 19.04509251,
+    "east": 72.87933085,
+    "west": 72.83450492
+  },
+  "raster": "/asset/mithi-salinity-overlay.png",
+  "legend": "/asset/mithi-salinity-legend.png",
+  "imageCoordinates": [
+    [
+      72.83450492,
+      19.08785231
+    ],
+    [
+      72.87933085,
+      19.08785231
+    ],
+    [
+      72.87933085,
+      19.04509251
+    ],
+    [
+      72.83450492,
+      19.04509251
+    ]
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "key": "3182BD",
+      "label": "Low",
+      "color": "#3182bd",
+      "class": 1,
+      "pixels": 144,
+      "share_pct": 0.1,
+      "area_ha": 2.2
+    },
+    {
+      "id": 2,
+      "key": "74C476",
+      "label": "Moderately low",
+      "color": "#74c476",
+      "class": 2,
+      "pixels": 73456,
+      "share_pct": 63.5,
+      "area_ha": 1425.5
+    },
+    {
+      "id": 3,
+      "key": "FFED6F",
+      "label": "Moderate",
+      "color": "#ffed6f",
+      "class": 3,
+      "pixels": 27760,
+      "share_pct": 24.0,
+      "area_ha": 538.8
+    },
+    {
+      "id": 4,
+      "key": "FD8D3C",
+      "label": "Moderately high",
+      "color": "#fd8d3c",
+      "class": 4,
+      "pixels": 12400,
+      "share_pct": 10.7,
+      "area_ha": 240.2
+    },
+    {
+      "id": 5,
+      "key": "A50F15",
+      "label": "High",
+      "color": "#a50f15",
+      "class": 5,
+      "pixels": 2000,
+      "share_pct": 1.7,
+      "area_ha": 38.2
+    }
+  ],
+  "total_pixels": 115760,
+  "total_area_ha": 2245.0,
+  "source_kmz": "b5b97e2c19f348d29eb9605098729fcd.kmz"
+}

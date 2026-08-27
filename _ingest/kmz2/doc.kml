@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <name>Mithi Relative Salinity Classes</name>
+  <description><![CDATA[Relative salinity classification, water pixels only (land background transparent). 3x3 majority filter applied. Class order (1=Low..5=High) assumed by convention -- see chat.]]></description>
+  <GroundOverlay>
+    <name>Mithi Relative Salinity Classes</name>
+    <Icon>
+      <href>Mithi_Relative_Salinity_Classes.png</href>
+    </Icon>
+    <LatLonBox>
+      <north>19.08785231</north>
+      <south>19.04509251</south>
+      <east>72.87933085</east>
+      <west>72.83450492</west>
+    </LatLonBox>
+  </GroundOverlay>
+  <ScreenOverlay>
+    <name>Legend</name>
+    <Icon>
+      <href>Mithi_Relative_Salinity_Classes_legend.png</href>
+    </Icon>
+    <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+    <screenXY x="0.01" y="0.99" xunits="fraction" yunits="fraction"/>
+    <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+    <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+  </ScreenOverlay>
+</Document>
+</kml>

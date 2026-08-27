@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Mithi River - Lithological Interpretation</name>
+<description><![CDATA[
+Provisional spectral lithology classification derived from Mithi_River_Lithology_Interpretation_Map.tif.
+Source raster: single-band classified GeoTIFF, EPSG:32643 (WGS 84 / UTM zone 43N), 20 m pixel size, 309 x 305 pixels.
+The source raster used pixel value 0 for two different things: the irregular AOI's background padding AND the genuine
+"0 - Water / Tidal Channel" class. These were separated using connected-component border-connectivity (the background
+component touches the raster's edges; the genuine tidal-channel pixels do not), confirmed against the known course of
+the Mithi River / Mahim tidal creek. The background is rendered fully transparent; only the classified AOI is shown.
+Processing applied for cartographic display only (classification values and spatial pattern unchanged):
+  1. Each of the 9 classes (0-8) was isolated into a binary mask (class 0 restricted to the genuine interior water pixels).
+  2. Each mask, plus the valid-AOI mask, was upsampled 8x (bilinear) and Gaussian-smoothed (sigma ~2.25 source pixels -
+     increased from an initial ~0.5px pass at the person's request, to merge small classification speckle into clean,
+     coherent zones and present a continuous channel feature).
+  3. Per-pixel winner-take-all (argmax across the 9 smoothed class masks) reassigned every output pixel back to one of the
+     original 9 class values only - no new classes, no value blending. The smoothed valid-AOI mask became the alpha channel,
+     giving a clean, feathered AOI boundary instead of a blocky one.
+  4. Result reprojected (bilinear) from EPSG:32643 to EPSG:4326 for display.
+At the person's request, "Water"/"Tidal" terminology and the blue water color were replaced with lithological/sediment
+terms: class 0 is now "Silty / Sandy Channel Sediment" (color changed from blue to a muted wet-silt brown-gray), and
+class 6 is now "Estuarine / Clayey-Silt Sediment" (color unchanged - it was never colored as open water).
+Note: legend swatch for "8 - Exposed / Bright Mineral Surface" was not shown in the supplied reference legend image; it
+was assigned a bright pink here to complete the palette distinctly from the other 8 classes.
+Output raster: 2561 x 2405 px, ~0.8 MB PNG, single GroundOverlay.
+]]></description>
+
+<GroundOverlay>
+  <name>Mithi River Lithological Interpretation</name>
+  <description>Provisional spectral interpretation - field validation required</description>
+  <Icon>
+    <href>files/overlay.png</href>
+  </Icon>
+  <LatLonBox>
+    <north>19.094260871183593</north>
+    <south>19.038481978963834</south>
+    <east>72.88661777120646</east>
+    <west>72.82722078868055</west>
+    <rotation>0</rotation>
+  </LatLonBox>
+</GroundOverlay>
+
+<ScreenOverlay>
+  <name>Legend</name>
+  <Icon>
+    <href>files/legend.png</href>
+  </Icon>
+  <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+  <screenXY x="0.02" y="0.03" xunits="fraction" yunits="fraction"/>
+  <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+  <size x="384" y="272" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+
+</Document>
+</kml>

@@ -1,0 +1,89 @@
+{
+  "name": "Bank Erosion Hotspot (2016\u20132026)",
+  "theme": "Geology",
+  "period": "2016-2026",
+  "sensor": "Year-to-year erosion count, clipped to Mithi AOI",
+  "note": "Hotspot = number of year-to-year periods with detected erosion.",
+  "bounds": {
+    "north": 19.08803197767048,
+    "south": 19.04491284403274,
+    "east": 72.87942068533268,
+    "west": 72.83441508959828
+  },
+  "raster": "/asset/mula-mutha-erosion-hotspots.png",
+  "legend": "/asset/mula-mutha-erosion-hotspots-legend.png",
+  "imageCoordinates": [
+    [
+      72.83441508959828,
+      19.08803197767048
+    ],
+    [
+      72.87942068533268,
+      19.08803197767048
+    ],
+    [
+      72.87942068533268,
+      19.04491284403274
+    ],
+    [
+      72.83441508959828,
+      19.04491284403274
+    ]
+  ],
+  "classes": [
+    {
+      "id": 0,
+      "key": "FFFFFF",
+      "label": "No / very low erosion",
+      "color": "#ffffff",
+      "class": 0,
+      "pixels": 116784,
+      "share_pct": 88.4,
+      "area_ha": 2009.2
+    },
+    {
+      "id": 1,
+      "key": "FFFF00",
+      "label": "Low erosion",
+      "color": "#ffff00",
+      "class": 1,
+      "pixels": 14040,
+      "share_pct": 10.6,
+      "area_ha": 240.9
+    },
+    {
+      "id": 2,
+      "key": "FFA500",
+      "label": "Moderate erosion",
+      "color": "#ffa500",
+      "class": 2,
+      "pixels": 1224,
+      "share_pct": 0.9,
+      "area_ha": 20.5
+    },
+    {
+      "id": 3,
+      "key": "FF0000",
+      "label": "High erosion",
+      "color": "#ff0000",
+      "class": 3,
+      "pixels": 0,
+      "share_pct": 0.0,
+      "area_ha": 0.0
+    },
+    {
+      "id": 4,
+      "key": "800000",
+      "label": "Very high erosion",
+      "color": "#800000",
+      "class": 4,
+      "pixels": 0,
+      "share_pct": 0.0,
+      "area_ha": 0.0
+    }
+  ],
+  "total_pixels": 132048,
+  "total_area_ha": 2272.9,
+  "source_zip": "2edcb32fc4504446a4740eb43dd27ede.zip",
+  "source_name": "Bank Erosion Hotspot - Mithi River (2016-2026)"
+}

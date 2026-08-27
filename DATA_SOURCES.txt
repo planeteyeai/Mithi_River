@@ -1,0 +1,27 @@
+================================================================================
+MITHI RIVER EYE - DATA SOURCES
+================================================================================
+Last updated: 2026-08-25
+Base: ClimateEye / River Eye frontend, re-pointed to the Mithi corridor (Mumbai).
+
+Shipped layers (this pack):
+  - River outline          3875ff68….kml → public/asset/mula-mutha-river.kml
+  - Buffer AOI             2afcb94d….kml → public/asset/mithi-buffer.geojson
+  - Drainage / tributaries b08d34d8….kml → mula-mutha-tributaries.geojson
+  - Garbage locations      34bf00ee….kml → mula-mutha-garbage-locations.* (213 pts)
+  - Spectral lithology     dfe45ce3….kmz → mula-mutha-spectral-lithology.*
+  - Relative salinity      b5b97e2c….kmz → mithi-salinity.* (+ ndsi JSON for UI)
+  - Silt class Jan–Jul     f2b2e1eb….zip → mula-mutha-silt.json + monthly PNGs
+  - Bank erosion 2016–26   2edcb32f….zip → mula-mutha-erosion-hotspots.*
+  - Flood/water heatmap    611be66f….xlsx → mula-mutha-flood-water*.json
+
+Not in this pack (UI themes left as scope cards / empty layer groups):
+  - Digital twin / BOD–COD dashboards (presigned HTML expired)
+  - Chainage, bathymetry depth raster, LULC, urban vegetation, biodiversity
+  - July TSS / NDCI / NDWI / WST water-quality overlays
+  - WRD flood survey lines
+
+AQI + weather still proxy through /api → climateye-apis.up.railway.app.
+
+Convert / refresh:  python scripts/ingest-mithi.py
+================================================================================

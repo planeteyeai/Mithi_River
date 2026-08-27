@@ -1,0 +1,152 @@
+/* Gutters keep the scale clear of the map chrome in every view: the layers
+   panel on the left, the zoom controls on the right, and the fullscreen
+   button along the bottom. */
+.chainage-scrubber {
+  --chainage-gutter-left: 16px;
+  --chainage-gutter-right: 58px;
+  --chainage-gutter-bottom: 68px;
+  --chainage-panel-width: min(372px, 44vw);
+
+  position: absolute;
+  z-index: 1200;
+  left: var(--chainage-gutter-left);
+  right: var(--chainage-gutter-right);
+  bottom: var(--chainage-gutter-bottom);
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  min-height: 48px;
+  padding: 0;
+  pointer-events: none;
+  background: none;
+  border: 0;
+  box-shadow: none;
+  font-family: var(--rv-font-body);
+}
+
+/* Only reserve the panel column while the layers menu is actually open. */
+.map-wrapper:has(.map-views-control:not(.is-docked) .map-views-menu) .chainage-scrubber {
+  --chainage-gutter-left: var(--chainage-panel-width);
+}
+
+/* Views with a bottom ribbon (water quality, depth, AQI) sit above it and
+   have their own cards down the right-hand side. */
+.chainage-scrubber.is-above-ribbon {
+  --chainage-gutter-right: min(260px, calc(100% - 220px));
+  /* Ribbon is 168px; leave a small gap so ticks don't clip the chart. */
+  --chainage-gutter-bottom: 184px;
+}
+
+.dashboard.is-fullscreen .chainage-scrubber.is-above-ribbon,
+:fullscreen .chainage-scrubber.is-above-ribbon {
+  --chainage-gutter-bottom: 208px;
+}
+
+.chainage-scrubber-kicker,
+.chainage-scrubber-unit {
+  flex: 0 0 auto;
+  padding-bottom: 2px;
+  font-size: 10px;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #f4f9fc;
+  text-shadow: 0 0 4px rgba(8, 18, 24, 0.95), 0 1px 2px rgba(8, 18, 24, 0.9);
+}
+
+.chainage-scrubber-track {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 34px;
+}
+
+.chainage-scale-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 9px;
+  height: 2px;
+  background: #f4f9fc;
+  box-shadow: 0 0 0 1px rgba(8, 18, 24, 0.55);
+}
+
+.chainage-tick {
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 22px;
+  height: 34px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.chainage-tick-mark {
+  width: 1.5px;
+  height: 14px;
+  margin: 3px 0 0;
+  background: #f4f9fc;
+  box-shadow: 0 0 0 1px rgba(8, 18, 24, 0.55);
+}
+
+.chainage-tick-label {
+  margin-top: 2px;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 1;
+  color: #f4f9fc;
+  text-shadow: 0 0 4px rgba(8, 18, 24, 0.95), 0 1px 2px rgba(8, 18, 24, 0.9);
+}
+
+.chainage-tick.is-active .chainage-tick-mark {
+  width: 2px;
+  height: 16px;
+  background: #ffd166;
+}
+
+.chainage-tick.is-active .chainage-tick-label {
+  color: #ffd166;
+}
+
+.chainage-step {
+  flex: 0 0 auto;
+  width: 44px;
+  height: 44px;
+  margin-bottom: 0;
+  padding: 0;
+  border: 2px solid #f4f9fc;
+  border-radius: 8px;
+  background: rgba(13, 36, 54, 0.7);
+  color: #f4f9fc;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.chainage-step:hover {
+  background: rgba(13, 36, 54, 0.92);
+}
+
+.chainage-step:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+@media (max-width: 1100px) {
+  .chainage-scrubber {
+    --chainage-gutter-left: 10px;
+    --chainage-panel-width: min(300px, 40vw);
+  }
+
+  .chainage-scrubber.is-above-ribbon {
+    --chainage-gutter-right: 10px;
+  }
+}
